@@ -41,8 +41,6 @@ DiscordClone to aplikacja do komunikacji tekstowej i głosowej, wzorowana na pop
 
 ## Uruchomienie projektu
 
-## Uruchomienie projektu
-
 Po sklonowaniu repozytorium:
 
 1. Wykonaj migracje, aby utworzyć bazę danych:
