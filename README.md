@@ -27,7 +27,7 @@ DiscordClone to aplikacja do komunikacji tekstowej i głosowej, wzorowana na pop
 - **ASP.NET Core**  
 - **Entity Framework Core**  
 - **Microsoft SQL Server LocalDB** (lokalna baza danych do rozwoju)  
-- **SignalR** – do komunikacji w czasie rzeczywistym  
+- **SignalR** oraz **WebRTC** – do komunikacji w czasie rzeczywistym  
 - JWT – uwierzytelnianie i autoryzacja  
 
 ### Frontend  
