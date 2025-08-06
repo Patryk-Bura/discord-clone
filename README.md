@@ -12,10 +12,10 @@ DiscordClone to aplikacja do komunikacji tekstowej i głosowej, wzorowana na pop
 ## Zrzuty ekranu
 
 ### Widok serwera  
-![Widok serwera](./images/server.png)
+![Widok serwera](./Images/server.png)
 
 ### Prywatny czat  
-![Prywatny czat](./images/private-chat.png)
+![Prywatny czat](./Images/private-chat.png)
 
 ---
 
